@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Narayana  
 ### Java Full Stack Developer | Spring Boot | React | MySQL | Python (OpenCV)
 
-🚀 I'm a developer focused on building real-world projects using **Java, JSP/Servlets, REST APIs, MySQL, and React**, and currently learning **Spring Boot** and **Computer Vision (OpenCV)** for automation and intelligent systems.
+🚀 I'm a developer focused on building real-world projects using **Java, JSP/Servlets, REST APIs, MySQL, and React**, **Spring Boot** and **Computer Vision (OpenCV)** for automation and intelligent systems.
 
 ---
 
