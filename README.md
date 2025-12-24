@@ -50,7 +50,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Narayana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarayanaDev&show_icons=true&theme=blueberry)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarayanaDev&show_icons=true&theme=blueberry)
 
 ---
 
